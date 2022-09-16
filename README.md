@@ -22,7 +22,7 @@ I am a Junior Backend developer with less than 1 year of experience, and a perso
 [![](https://visitcount.itsvg.in/api?id=MandoPurba&icon=7&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/sigumonrong1205) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sigumonrong1205) 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
